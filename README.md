@@ -17,3 +17,7 @@
 
 ## بوتات تيليجرام
 
+| الاسم | الوصف | تيليجرام |
+|-------|-------|----------|
+| Cyber Collector | بوت مجاني لتحميل مقاطع الفيديو من TikTok وInstagram وYouTube وTwitter وFacebook. بدون تسجيل وبدون إعلانات. [الموقع](https://cybercollector.hitkey.io) | [فتح](https://t.me/cybercollectorbot) |
+
